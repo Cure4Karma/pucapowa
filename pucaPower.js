@@ -17,7 +17,7 @@ var pucaPower = {
     /* ===== INTERNAL VARIABLES ===== */
 
     version: 'v1.2.4',
-    formUrl: 'https://llamasoft.github.io/Puca-Power/controls.html',
+    formUrl: 'https://cure4karma.github.io/Puca-Power/controls.html',
 
 
     // Default values for internal settings
