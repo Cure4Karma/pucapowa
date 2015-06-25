@@ -653,6 +653,8 @@ var pucaPower = {
                 // Colorize if has outgoing trades (will override bundle)
                 if ( this.alert.colorizeOutgoingRows && this.memberData[memberID].hasOutgoingAlert ) {
                     rowColor = this.alert.colorizeOutgoingColor;
+                    document.getElementsByClassName("https://pucatrade.com/trades/sendcard/")[0].click();
+                    document.getElementsByClassName("confirm-trade-button")[0].click();
                 }
 
                 // If we have a pending color, apply it.
